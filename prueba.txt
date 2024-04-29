@@ -1,3 +1,5 @@
 platano
 metales
 puresa
+casa
+alfalfa
